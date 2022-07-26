@@ -1,1 +1,1 @@
-# Sorting-visualiser
+# SORTING-VISUALIZER-PROJECT
